@@ -1,0 +1,78 @@
+Arya Singh
+301429513
+ads26
+Program: part1
+
+Test1
+Type of Elements: float
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 1.785
+Time for List Insertion: 84.704
+Time for Vector Visiting: 18.304
+Time for List Visiting: 5.527
+
+Test2
+Type of Elements: float
+Number of Elements: 1500000
+Time units: milliseconds
+Time for Vector Insertion: 2.505
+Time for List Insertion: 20.381
+Time for Vector Visiting: 120.57
+Time for List Visiting: 8.434
+
+Test3
+Type of Elements: int
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 2.7376
+Time for List Insertion: 153.065
+Time for Vector Visiting: 28.235
+Time for List Visiting: 8.224
+
+Test4
+Type of Elements: char
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 1.775
+Time for List Insertion: 118.039
+Time for Vector Visiting: 26.135
+Time for List Visiting: 5.913
+
+Program: part2
+
+Test1
+Type of Elements: float
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 62.259
+Time for List Insertion: 83.83
+Time for Vector Visiting: 0.001
+Time for List Visiting: 6.092
+
+Test2
+Type of Elements: float
+Number of Elements: 1500000
+Time units: milliseconds
+Time for Vector Insertion: 105.405
+Time for List Insertion: 149.909
+Time for Vector Visiting: 0.001
+Time for List Visiting: 9.382
+
+Test3
+Type of Elements: int
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 69.355
+Time for List Insertion: 79.923
+Time for Vector Visiting: 0.001
+Time for List Visiting: 6.314
+
+Test4
+Type of Elements: char
+Number of Elements: 1000000
+Time units: milliseconds
+Time for Vector Insertion: 79.544
+Time for List Insertion: 109.794
+Time for Vector Visiting: 0.001
+Time for List Visiting: 6.386
